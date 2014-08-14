@@ -18,7 +18,8 @@ It also support custom posts.
 [Feedback Admin Featured Thumbnail](http://www.wphigh.com/portfolio/admin-featured-thumbnail-wordpress-plugin)
 
 == Screenshots ==
-
+1. posts thumbnail
+2. popup preview
 
 == Changelog ==
 
